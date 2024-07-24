@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "crypto-js": "^4.2.0",
+    "express": "^4.19.2",
+    "oauth-1.0a": "^2.2.6",
+    "request": "^2.88.2"
+  },
+  "name": "netsuite-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
